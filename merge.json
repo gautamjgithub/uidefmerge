@@ -1,0 +1,30 @@
+{
+	"version": "",
+	"defaults": {
+		"key0": {
+			"key01": "value0"
+		},
+		"key1": "value1",
+		"key2": "value2"
+	},
+	"standard": {
+		"color": {
+			"auxColor": {
+				"key0": "value10",
+				"key1": "value11"
+			}
+		}
+
+	},
+	"statics": [{
+		"key0": "value0",
+		"key1": "value1",
+		"key2": {
+			"key20": "value20",
+			"key21": {
+				"key210": "value210",
+				"key211": "value211"
+			}
+		}
+	}]
+}
