@@ -11,7 +11,7 @@
 	"standard": {
 		"color": {
 			"auxColor": {
-				"key0": "value112",
+				"key0": "valueNew",
 				"key1": "value11"
 			}
 		}
@@ -22,8 +22,9 @@
 		"key2": {
 			"key20": "value20",
 			"key21": {
-				"key210": "value210",
-				"key211": "value211"
+				"key210": "value210changed",
+				"key211": "value211",
+				"key212": "value212"
 			}
 		},
 		"key3": "value3"
