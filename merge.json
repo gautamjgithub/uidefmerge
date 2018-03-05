@@ -19,13 +19,13 @@
 	},
 	"statics": [{
 		"key0": "value0",
-		"key1": "value1",
 		"key2": {
 			"key20": "value20",
 			"key21": {
 				"key210": "value210",
 				"key211": "value211"
 			}
-		}
+		},
+		"key3": "value3"
 	}]
 }
